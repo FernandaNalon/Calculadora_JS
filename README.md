@@ -6,7 +6,7 @@ O objetivo do projeto é praticar conceitos fundamentais de desenvolvimento web,
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 A calculadora permite realizar as seguintes operações:
 
@@ -20,7 +20,7 @@ As operações são executadas utilizando **funções em JavaScript**, que manip
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando:
 
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido utilizando:
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 calculadora/
@@ -71,7 +71,7 @@ Não é necessário instalar nenhuma dependência.
 
 ---
 
-## 💡 Objetivo educacional
+## Objetivo educacional
 
 Este projeto foi desenvolvido com fins **educacionais**, com o objetivo de praticar:
 
@@ -82,7 +82,7 @@ Este projeto foi desenvolvido com fins **educacionais**, com o objetivo de prati
 
 ---
 
-## 📌 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 Algumas melhorias que podem ser implementadas:
 
@@ -93,6 +93,6 @@ Algumas melhorias que podem ser implementadas:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 Projeto desenvolvido por **Fernanda Nalon**.
